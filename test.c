@@ -1,7 +1,6 @@
 #include <stdio.h>
 int main(){
 printf("aa");
-
-printf("cc");
+printf("bb");
 return 0; 
 }
