@@ -1,6 +1,6 @@
 #include <stdio.h>
 int main(){
 printf("local");
-printf("local2");
+printf("web");
 return 0; 
 }
