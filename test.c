@@ -1,8 +1,6 @@
 #include <stdio.h>
 int main(){
-printf("aa");
-printf("bb");
-printf("cc");
-printf("local");
+printf("web");
+printf("web2");
 return 0; 
 }
