@@ -1,8 +1,6 @@
 #include <stdio.h>
 int main(){
-printf("aa");
-printf("bb");
-printf("cc");
 printf("local");
+printf("local2");
 return 0; 
 }
